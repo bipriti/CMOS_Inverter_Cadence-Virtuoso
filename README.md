@@ -1,5 +1,5 @@
 # CMOS Inverter Schematic and Layout using Cadence Virtuoso
-[**View Project by Clicking Here**](#) <![(https://github.com/bipriti/CMOS_Inverter_Cadence-Virtuoso/blob/main/Cmos_Inverter_Project.pdf)]
+[**View Project by Clicking Here**] (#)<![--(https://github.com/bipriti/CMOS_Inverter_Cadence-Virtuoso/blob/main/Cmos_Inverter_Project.pdf)--]
 
 
 ## Overview
