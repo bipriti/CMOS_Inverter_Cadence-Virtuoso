@@ -1,6 +1,5 @@
 # CMOS Inverter Schematic and Layout using Cadence Virtuoso
-[**View Project by Clicking Here**] (#)<![--(https://github.com/bipriti/CMOS_Inverter_Cadence-Virtuoso/blob/main/Cmos_Inverter_Project.pdf)--]
-
+[**Click Here to View the Full Project**](https://github.com/bipriti/CMOS_Inverter_Cadence-Virtuoso/blob/main/Cmos_Inverter_Project.pdf)
 
 ## Overview
 This project involves the design, simulation, and verification of a **CMOS inverter** using **Cadence Virtuoso** with the **GPdk090 technology library**. The key steps include:
